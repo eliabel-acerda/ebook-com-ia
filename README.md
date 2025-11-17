@@ -10,7 +10,7 @@
 > ℹ️ **NOTE:** Este repositório contém um ebook criado utilizando ferramentas de Inteligência Artificial — desde o conteúdo, estrutura, prompts e artes.
 
 📕 **Baixe ou leia o ebook aqui:**  
-👉 *adicione o link do PDF depois que subir no GitHub*
+👉 (https://github.com/eliabel-acerda/ebook-com-ia/blob/main/ebook_descricao_classificacao_documentos.pdf)
 
 Este projeto demonstra como produzir um ebook completo com IA, incluindo planejamento, prompts, design e organização de conteúdo.
 
